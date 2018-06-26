@@ -1,0 +1,58 @@
+body {
+    background-color: LightGrey;
+}
+h1 {
+    color: red;
+	font-family: 'Montserrat', sans-serif;
+}
+p {
+	
+}
+h2 {
+    color: red;
+	font-family: 'Montserrat', sans-serif;
+}
+h3 {
+    color: red;
+	font-family: 'Montserrat', sans-serif;
+}
+li {
+	font-family: 'Didact Gothic';font-size: 22px;
+}
+a:link {
+	text-decoration: none;
+	color: red;
+}
+a:visited {
+	text-decoration: none;
+	color: red;
+}
+a:hover {
+	text-decoration: none;
+	color: red;
+}
+a:active {
+	text-decoration: none;
+	color: red;
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Montserrat Regular'), local('Montserrat-Regular'), url(https://fonts.gstatic.com/s/montserrat/v12/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf) format('truetype');
+}
+#bepis {
+	background-color:white;
+	border: 3px none white;
+	border-radius: 5px;
+	padding: 20px;
+	margin-top: 45px;
+	margin-right: 100px;
+	margin-bottom: 15px;
+	margin-left: 25px;
+}
+ul {
+  list-style-type: none;
+  padding: 10px;
+  margin: 0;
+}
